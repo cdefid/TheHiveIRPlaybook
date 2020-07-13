@@ -6,4 +6,4 @@ Kumpulan case template ini berisi panduan penanganan insiden keamanan siber
 
 Berikut adalah daftar case template yang sudah ada
 1. DDoS Attack
-2. 
+2. Worm Infection
